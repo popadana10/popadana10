@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @popadana10
 - 👀 I’m interested in exploring the intersection of art and technology, particularly through coding and creative projects.
-- 🌱 I’m currently learning the fundamentals of coding, focusing on languages like HTML, CSS, and JavaScript, as well as exploring UI/UX design principles.
+- 🌱 I’m currently learning the fundamentals of coding, focusing on languages like HTML, CSS, JavaScript and PHP as well as exploring UI/UX design principles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can reach me via email at popa.dana100@gmail.com or connect with me on LinkedIn at linkedin.com/in/dana-mihaela-popa .
 - 😄 Pronouns: she/her
