@@ -1,11 +1,17 @@
-- 👋 Hi there, I’m @popadana10
-- 👀 I’m interested in exploring the intersection of art and technology, particularly through coding and creative projects.
-- 🌱 I’m currently studying the fundamentals of coding, focusing on languages like HTML, CSS, JavaScript, React, PHP, Symfony, Drupal, as well as exploring UI/UX design principles.
-- 💞️ I’m currently looking for opportunities where I can apply my coding skills in a creative and collaborative environment.
-- 📫 You can reach me via email at popa.dana100@gmail.com or connect with me on LinkedIn at https://linkedin.com/in/dana-mihaela-popa .
-- ⚡ Fun fact: I love experimenting with different art mediums, from traditional painting to digital illustration, and I'm always eager to learn new techniques and tools.
+**You**: Hey! I'm Dana Mihaela Popa, nice to meet you. 👋
+_Just now_
 
-<!---
-popadana10/popadana10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**You**: I'm passionate about exploring the intersection of art and technology. I love coding and creative projects! 👀
+_Just now_
+
+**You**: Currently, I'm diving into HTML, CSS, JavaScript, React, PHP, Symfony, Drupal, and exploring UI/UX design principles. 🌱
+_Just now_
+
+**You**: I'm on the lookout for opportunities where I can apply my coding skills in a creative and collaborative environment. 💞️
+_Just now_
+
+**You**: You can reach me via email at popa.dana100@gmail.com or connect with me on LinkedIn at [Dana Mihaela Popa](https://linkedin.com/in/dana-mihaela-popa). 📫
+_Just now_
+
+**You**: I love experimenting with different art mediums, from traditional painting to digital illustration. I'm always eager to learn new techniques and tools. ⚡
+_Just now_
