@@ -1,7 +1,5 @@
 Hey! I'm Dana. 👋
 
-💞️ I'm passionate about exploring the intersection of art and technology. I love coding and creative projects! 🎨👩‍💻
-
 🚀🌱 Currently, I'm diving into HTML, CSS, JavaScript, PHP and exploring UI/UX design principles. 
 
 💼 I'm on the lookout for opportunities where I can apply my coding skills in a creative and collaborative environment.
