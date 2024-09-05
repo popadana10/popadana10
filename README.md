@@ -1,9 +1,9 @@
 Hey! I'm Dana. 👋
 
-🚀🌱 Currently, I'm diving into HTML, CSS, JavaScript, PHP and exploring UI/UX design principles. 
+🚀 Besides my skills in UI/UX Design, HTML, CSS, JavaScript, PHP, Symfony and React I’m currently expanding my knowledge in Drupal, Redux, AWS, Quality Assurance, and CI/CD practices.
 
-💼 I'm on the lookout for opportunities where I can apply my coding skills in a creative and collaborative environment.
+📫 Feel free to reach out to me via email at popa.dana100@gmail.com or connect with me on LinkedIn at Dana Mihaela Popa 📫
 
-📫 You can reach me via email at popa.dana100@gmail.com or connect with me on LinkedIn at [Dana Mihaela Popa](https://linkedin.com/in/dana-mihaela-popa) 📫
+🖌️ Beyond coding, I enjoy short-form content creation for social media platforms. 
 
-🖌️ I love experimenting with different art mediums, from traditional painting to digital illustration. I'm always eager to learn new techniques and tools. ⚡
+I’m always eager to explore new tools and techniques. ⚡
